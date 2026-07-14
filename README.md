@@ -17,13 +17,13 @@
 ### Introduction
 ### Links
 1.How to install
-[>Click here to read<](https://github.com/Infinity-Phantom/Phi-Script-Engine/blob/main/documents/zh-cn/tutorial-install.md "安装教程")
+[>Click here to read<](https://github.com/Infinity-Phantom/Phi-Script-Engine/blob/main/documents/zh-cn/tutorial-install.md "How to install")
 
 2.How to use
-[>Click here to read<](https://github.com/Infinity-Phantom/Phi-Script-Engine/blob/main/documents/zh-cn/tutorial-how-to-use.md "使用教程")
+[>Click here to read<](https://github.com/Infinity-Phantom/Phi-Script-Engine/blob/main/documents/zh-cn/tutorial-how-to-use.md "How to use")
 
 3.Introduction for developers
-[>Click here to read<](https://github.com/Infinity-Phantom/Phi-Script-Engine/blob/main/documents/zh-cn/tutorial-dev.md "开发者教程及约定")
+[>Click here to read<](https://github.com/Infinity-Phantom/Phi-Script-Engine/blob/main/documents/zh-cn/tutorial-dev.md "Introduction for developers")
 
 4.Quick view of all commands
-[>Click here to read<](https://github.com/Infinity-Phantom/Phi-Script-Engine/blob/main/documents/zh-cn/all-commands/beta-v0-1-0.md "命令一览")
+[>Click here to read<](https://github.com/Infinity-Phantom/Phi-Script-Engine/blob/main/documents/zh-cn/all-commands/beta-v0-1-0.md "Quick view of all commands")
